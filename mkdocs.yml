@@ -31,7 +31,8 @@ markdown_extensions:
   - md_in_html
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tasklist
 
 nav:
