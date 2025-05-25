@@ -1,0 +1,44 @@
+site_name: Nimra | Graphic Designer
+# site_url: https://yourusername.github.io/portfolio/  # or custom domain
+# repo_url: https://github.com/yourusername/portfolio
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tracking
+    - content.tabs
+  palette:
+    primary: '#yourbrandcolor'  # Your primary brand color
+    accent: '#yoursecondarycolor'  # Secondary brand color
+  font:
+    text: 'Roboto'  # Modern clean font
+    code: 'Fira Code'
+
+extra_css:
+  - assets/css/lightbox.css
+  - assets/css/grid.css
+  - assets/css/custom.css
+
+extra_javascript:
+  - assets/js/lightbox.js
+  - assets/js/custom.js
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+
+nav:
+  - Home: index.md
+  - Portfolio: projects/
+  - Case Studies: case-studies/
+  - Services: services.md
+  - Process: process.md
+  - About: about.md
+  - Contact: contact.md
