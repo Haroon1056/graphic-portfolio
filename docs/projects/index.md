@@ -4,18 +4,22 @@ A curated selection of my best design work across various disciplines.
 
 <div class="gallery-grid">
 
-## Brand Identity Projects
+<h2> Brand Identity Projects </h2>
 
 <div class="gallery-item" markdown>
-![NovaTech Logo System](assets/img/projects/novatech/cover.jpg){ loading=lazy }
+<!-- ![NovaTech Logo System](assets/img/projects/novatech/cover.jpg){ loading=lazy } -->
+<img src="assets/img/techlogo.jpg" alt="Tech Logo" loading="lazy">
+
 </div>
 
 <div class="gallery-item" markdown>
-![Brew & Bean Visual Identity](assets/img/projects/brewbean/cover.jpg){ loading=lazy }
+<img src="assets/img/thumbnail.jpg" alt="Brew & Bean Visual Indentity" loading="lazy">
+<!-- ![Brew & Bean Visual Identity](assets/img/projects/brewbean/cover.jpg){ loading=lazy } -->
 </div>
 
 <div class="gallery-item" markdown>
-![Lumina Wellness Branding](assets/img/projects/lumina/cover.jpg){ loading=lazy }
+<img src="assets/img/lumina.jpg" alt="Minimal logo design set" loading="lazy">
+<!-- ![Lumina Wellness Branding](assets/img/projects/lumina/cover.jpg){ loading=lazy } -->
 </div>
 
 [View All Branding Projects](/projects/branding){ .md-button }

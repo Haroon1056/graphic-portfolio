@@ -1,13 +1,32 @@
-# Welcome to My Portfolio
+<!-- Home Page -->
 
-![Hero Image](assets/images/hero.jpg){ style="width: 100%; border-radius: 15px;" }
+<div class="hero-section">
 
-## Selected Works
+  <h1 class="fade-in">Hi, I'm <span class="highlight">Nimra</span></h1>
+  <h2 class="slide-in">Aspiring Graphic Designer | Open for Freelance Projects</h2>
+  
+  <p class="scale-in">
+    I’m a passionate graphic designer and I'm now stepping into the world of freelancing.
+    I'm passionate about creating clean, creative, and visually appealing designs that help small businesses and startups stand out.
+  </p>
 
-=== "Project 1"
-    ![Project 1](assets/images/project1/cover.jpg){ .lightbox }
+  <p class="scale-in">
+    This website is where I’ll be sharing my journey, showcasing my projects, and connecting with clients who believe in fresh, enthusiastic design energy.
+  </p>
 
-=== "Project 2"
-    ![Project 2](assets/images/project2/cover.jpg){ .lightbox }
+  <div class="cta-buttons">
+    <a href="services/" class="btn">My Services</a>
+    <a href="projects/" class="btn-outline">View Portfolio</a>
+  </div>
 
-[Hire Me →](contact.md){ .md-button .md-button--primary }
+</div>
+
+---
+
+## Early Design Projects
+
+![Logo Mockup](assets/img/simple-design.jpg){ .lightbox style="border-radius: 12px; max-width: 400px;" }
+
+> One of my first logo mockups during training — many more creative projects coming soon!
+
+[Let's Work Together →](contact.md){ .md-button .md-button--primary }

@@ -9,10 +9,12 @@ theme:
     - navigation.indexes
     - navigation.sections
     - navigation.tracking
-    - content.tabs
+    - content.tabs 
   palette:
-    primary: '#yourbrandcolor'  # Your primary brand color
-    accent: '#yoursecondarycolor'  # Secondary brand color
+    # primary: '#yourbrandcolor'  # Your primary brand color
+    # accent: '#yoursecondarycolor'  # Secondary brand color
+    primary: '#ff5e57'  # coral/red or choose yours
+    accent: '#ffc107'   # amber/yellow or any soft contrast
   font:
     text: 'Roboto'  # Modern clean font
     code: 'Fira Code'
@@ -38,7 +40,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Portfolio: projects/
-  - Case Studies: case-studies/
+  # - Case Studies: case-studies/
   - Services: services.md
   - Process: process.md
   - About: about.md

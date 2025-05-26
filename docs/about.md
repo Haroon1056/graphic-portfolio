@@ -1,33 +1,51 @@
 # About Nimra
 
-<div class="about-hero">
-  <div class="about-image" markdown>
-  ![Your Professional Photo](assets/img/about/portrait.jpg){ loading=lazy }
-  </div>
-  
-  <div class="about-intro">
-    <h2>Crafting Brands That Stand Out</h2>
-    <p class="lead">With over [X] years transforming businesses through strategic design, I help ambitious brands express their unique value through compelling visual storytelling.</p>
-    
-    <div class="about-cta">
-      [View My Process](/process){ .md-button }
-      [Get In Touch](/contact){ .md-button .md-button--primary }
-    </div>
-  </div>
+<div class="about-hero fade-in">
+
+<div class="about-image" markdown>
+![Nimra Graphic Designer Portrait](assets/img/about/portrait.jpg){ loading=lazy style="border-radius: 12px; max-width: 280px;" }
 </div>
 
-## My Design Philosophy
+<div class="about-intro">
 
-::: grid
-```markdown
-### Strategy First
+<h2> Crafting Brands That Stand Out </h2>
 
-Design without strategy is decoration. Every project begins with research - understanding your market, audience and business objectives to create work that performs.
+I’m Nimra — a passionate graphic designer stepping into the world of freelancing.  
+I love transforming ideas into clean, creative, and professional designs that reflect your brand's unique story.
 
-### Craft Matters
+</div>
 
-In a digital world, I champion thoughtful execution. Whether it's perfect kerning or precise packaging dielines, the details make the difference.
+</div>
 
-### Systems Thinking
+<div class="about-cta fade-in">
 
-Great identities work across all touchpoints. I design flexible systems that maintain consistency while allowing room to grow.
+<a href="/contact/" class="md-button md-button--primary">Get In Touch →</a>
+
+<a href="/process/" class="md-button">Explore My Process →</a>
+
+</div>
+
+---
+
+## 🎨 My Design Philosophy
+
+<div class="grid fade-in">
+<div class="service-card slide-up">
+<h3>Strategy First </h3>
+<P>Design without purpose is just decoration.  
+I start every project by understanding your business, your audience, and your goals — so we create visuals that perform.</P>
+</div>
+
+<div class="service-card slide-up delay-1">
+<h3>Craft Matters </h3>
+<p>In a digital world full of noise, I believe in quality.  
+Whether it's aligned typography or sharp mockups, the details matter and help your brand stand out.</p>
+</div>
+
+
+<div class="service-card slide-up delay-2">
+<h3>Systems Thinking </h3>
+<p>A good design works everywhere — social media, packaging, websites.  
+I create brand systems that are consistent, flexible, and scalable as you grow.</p>
+</div>
+</div>
