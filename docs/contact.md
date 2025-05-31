@@ -13,7 +13,7 @@
     <div class="underline"></div>
   </div>
   
-  <div class="input-group">
+  <!-- <div class="input-group">
     <select name="project" id="project">
       <option value=""></option>
       <option value="branding">Brand Identity</option>
@@ -22,7 +22,7 @@
     </select>
     <label for="project">Project Type</label>
     <div class="underline"></div>
-  </div>
+  </div> -->
   
   <div class="input-group">
     <textarea name="message" id="message" rows="3" required></textarea>
