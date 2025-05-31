@@ -46,5 +46,5 @@ You’ll receive design previews with room for <b>2 revision rounds</b>. Once ap
 ---
 
 <div class="cta-wrapper scale-in" style="text-align: center; margin-top: 2rem;">
-  <a href="/contact/" class="md-button md-button--primary">Let’s Work Together →</a>
+  <a href="/graphic-portfolio/contact/" class="md-button md-button--primary">Let’s Work Together →</a>
 </div>
